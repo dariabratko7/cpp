@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "MySting\\x64\\Debug\\MusTrack.obj",
+            "outputs": [
+                "MySting\\x64\\Debug\\MusTrack.h_117D111F9EB8A4F8.ifc.dt.module.json",
+                "MySting\\x64\\Debug\\MusTrack.h_117D111F9EB8A4F8.ifc.dt.d.json",
+                "MySting\\x64\\Debug\\MusTrack.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Тетяна\\OneDrive\\Робочий стіл\\CppProjects\\MySting\\MusTrack.h",
+                    "source-path": "c:\\users\\тетяна\\onedrive\\робочий стіл\\cppprojects\\mysting\\mustrack.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
