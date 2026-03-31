@@ -90,3 +90,7 @@ vector<Record> Directory::searchByActivity(const string& activity) const {
     }
     return result;
 }
+int main() {
+    cout << "Привіт з mybranch" << endl;
+    return 0;
+}
