@@ -26,5 +26,8 @@
     <ClInclude Include="Directory.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="myheader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
